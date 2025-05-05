@@ -16,6 +16,23 @@
 <img src="https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent" style="margin: 0.5rem"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=donut&theme=transparent" style="margin: 0.5rem"/>
 
+
+<br clear="both">
+
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=ArifDev-coder.ArifDev-coder&left_text=Total%20Visitor"  />
+
+###
+
+<img src="https://raw.githubusercontent.com/ArifDev-coder/ArifDev-coder/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
+
+###
+
 <p align="center">
     <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
 </p>
