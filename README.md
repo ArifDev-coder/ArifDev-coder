@@ -13,12 +13,7 @@
 
 
 ##### My Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArifDev-coder" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArifDev-coder&layout=compact&langs_count=8&card_width=320" />
-</a>
+![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=donut&theme=transparent)
 
 <p align="center">
     <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
