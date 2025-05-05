@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there! I'am ArifDev 👋
+
+- 🌱 ***I’m currently learning***: **[Python](https://www.python.org/) Development**
+- ⚡ ***Fun fact***: I'am 14yo
+
+![ArifDev](assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif)
 
 <!--
 **ArifDev-coder/ArifDev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
