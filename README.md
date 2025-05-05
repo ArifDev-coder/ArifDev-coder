@@ -13,7 +13,7 @@
 
 
 ##### My Github Stats
-![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)
+![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=compact&theme=transparent)
 
 <p align="center">
     <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
