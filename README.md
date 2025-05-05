@@ -2,7 +2,7 @@
 
 ## Hi there! I'am ArifDev 👋
 
-- 🌱 ***I’m currently learning***: **<a href="https://www.python.org/">Python</a> Development** and **Machine Learning**
+- 🌱 ***I’m currently learning***: **[Python](https://www.python.org/) Development** and **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**
 - ⚡ ***Fun fact***: I'am 14yo
 
 ##### Skills
