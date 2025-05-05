@@ -13,9 +13,11 @@
 
 
 ##### My Github Stats
-![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=dark)
+![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent)
 
-<img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
+<p align="center">
+    <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
+</p>
 
 <!--
 **ArifDev-coder/ArifDev-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
