@@ -13,7 +13,7 @@
 
 
 ##### My Github Stats
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="justify">
     <img src="https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent" alt="ArifDev's Github Stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=compact&theme=transparent" alt="Top Langs">
 </div>
