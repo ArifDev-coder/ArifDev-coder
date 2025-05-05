@@ -1,7 +1,12 @@
+![Banner](assets/github-header-image%20(2).png)
+
 ## Hi there! I'am ArifDev 👋
 
 - 🌱 ***I’m currently learning***: **[Python](https://www.python.org/) Development**
 - ⚡ ***Fun fact***: I'am 14yo
+
+##### Skills
+
 
 ![ArifDev](assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif)
 
