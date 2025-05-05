@@ -13,7 +13,10 @@
 
 
 ##### My Github Stats
-![ArifDev's Github Stats](https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=compact&theme=transparent)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent" alt="ArifDev's Github Stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=compact&theme=transparent" alt="Top Langs">
+</div>
 
 <p align="center">
     <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
