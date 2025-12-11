@@ -2,7 +2,7 @@
 
 ## Hi there! I'am ArifDev 👋
 
-- 🌱 ***I’m currently learning***: **[Python]Game Development & Server Development**
+- 🌱 ***I’m currently learning***: **Game Development & Server Development**
 - ⚡ ***Fun fact***: I'am 15yo and I start learn coding on 12yo
 
 ##### Skills
