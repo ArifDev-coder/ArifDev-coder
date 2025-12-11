@@ -2,7 +2,7 @@
 
 ## Hi there! I'am ArifDev 👋
 
-- 🌱 ***I’m currently learning***: **[Python](https://www.python.org/) Development** and **[Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)**
+- 🌱 ***I’m currently learning***: **[Python]Game Development & Server Development**
 - ⚡ ***Fun fact***: I'am 15yo and I start learn coding on 12yo
 
 ##### Skills
@@ -15,6 +15,7 @@
 ##### My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=ArifDev-coder&show_icons=true&theme=transparent" style="margin: 0.5rem"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifDev-coder&layout=donut&theme=transparent" style="margin: 0.5rem"/>
+<a href="https://wakatime.com/@22987ac1-9e64-4ab6-b555-21ac120385dd"><img src="https://wakatime.com/badge/user/22987ac1-9e64-4ab6-b555-21ac120385dd.svg" alt="Total time coded since Nov 8 2025" /></a>
 
 ##### Play With Me
 <br clear="both">
