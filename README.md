@@ -13,7 +13,8 @@
 
 
 ##### My Github Stats
-<a href="https://wakatime.com/@22987ac1-9e64-4ab6-b555-21ac120385dd"><img src="https://wakatime.com/badge/user/22987ac1-9e64-4ab6-b555-21ac120385dd.svg" alt="Total time coded since Nov 8 2025" /></a>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ##### Play With Me
 <br clear="both">
