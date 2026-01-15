@@ -14,9 +14,9 @@
 
 ##### My Github Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2049%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-190-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-192-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-983.82%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -59,19 +59,22 @@ Sunday                   80 commits          ██████░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-JavaScript               2 hrs 16 mins       █████████████████████████   99.59 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+JavaScript               4 hrs 44 mins       █████████████████████░░░░   82.01 % 
+C#                       1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Java Properties          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        ███████████████████████░░   93.11 % 
-Antigravity              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+VS Code                  5 hrs 37 mins       ████████████████████████░   97.27 % 
+Antigravity              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 
 🐱‍💻 Projects: 
-KingdomWar-BP            2 hrs 16 mins       █████████████████████████   99.59 % 
-ssh                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+KingdomWar-BP            4 hrs 46 mins       █████████████████████░░░░   82.63 % 
+MonoGame                 1 hr                ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,7 +93,7 @@ C++                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ArifDev-coder/ArifDev-coder/main/assets/bar_graph.png)
 
 
- Last Updated on 14/01/2026 11:55:55 UTC
+ Last Updated on 15/01/2026 11:55:45 UTC
 <!--END_SECTION:waka-->
 
 ##### Play With Me
