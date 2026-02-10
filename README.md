@@ -85,9 +85,6 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/ArifDev-coder/ArifDev-coder/main/assets/bar_graph.png)
 
 
  Last Updated on 09/02/2026 12:35:34 UTC
