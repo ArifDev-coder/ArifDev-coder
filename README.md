@@ -97,7 +97,3 @@ C#                       1 repo              █░░░░░░░░░░�
 </picture>
 
 ###
-
-<p align="center">
-    <img src="assets/Professional_Mode_buat_menjadi_gif__perbagus__dapa.gif">
-</p>
