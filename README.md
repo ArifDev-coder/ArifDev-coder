@@ -2,7 +2,7 @@
 
 ## Hi there! I'am ArifDev 👋
 
-- 🌱 ***I Love Learn How Technologiy Works***
+- 🌱 ***I Love Learning How Technology Works***
 - ⚡ ***Fun fact***: I'am 15yo and I start learn coding on 12yo
 
 ##### Skills
