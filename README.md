@@ -14,7 +14,7 @@
 
 ##### My Github Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%206%20mins-blue?style=flat) SINCE NOV 8 2025
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
