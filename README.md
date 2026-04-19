@@ -12,9 +12,9 @@
 <img src="https://img.shields.io/badge/Arch_Linux-0078d4?style=for-the-badge&logo=arch-linux&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"> <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"> <img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">
 
 
-##### My Github Stats
+##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%206%20mins-blue?style=flat) SINCE NOV 8 2025
+![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%206%20mins-blue?style=flat) 
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
 
