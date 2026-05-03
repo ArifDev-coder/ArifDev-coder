@@ -1,6 +1,6 @@
 <img src="assets/github-header-image%20(2).png">
 
-## Hi there! I'am ArifDev 👋
+## Hi there! I'am ArifDev 👋😀
 
 - 🌱 ***I Love Learning How Technology Works***
 - ⚡ ***Fun fact***: I'am 15yo and I start learn coding on 12yo
