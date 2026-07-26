@@ -57,20 +57,23 @@ Sunday                   175 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   46 mins             ███████████████████████░░   91.07 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Python                   46 mins             ███████████████████░░░░░░   76.86 % 
+C                        9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████████   100.00 % 
+VS Code                  51 mins             █████████████████████░░░░   84.40 % 
+Neovim                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          47 mins             ███████████████████████░░   91.47 % 
-egg-shop                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+FaceRecognition          47 mins             ███████████████████░░░░░░   77.21 % 
+Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+egg-shop                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 
 💻 Operating System: 
-Linux                    51 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +89,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 12:47:18 UTC
+ Last Updated on 26/07/2026 12:46:50 UTC
 <!--END_SECTION:waka-->
 
 ###
