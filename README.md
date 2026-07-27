@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -22,32 +22,32 @@
 
 > 📦 190.9 kB Used in GitHub's Storage 
  > 
-> 🏆 454 Contributions in the Year 2026
+> 🏆 455 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 2 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                231 commits         ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-🌃 Evening                503 commits         ██████████████░░░░░░░░░░░   56.52 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+🌆 Daytime                231 commits         ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+🌃 Evening                505 commits         ██████████████░░░░░░░░░░░   56.61 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Tuesday                  105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
-Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
-Sunday                   175 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Tuesday                  105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Wednesday                93 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
+Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
+Sunday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
 ```
 
 
@@ -57,23 +57,25 @@ Sunday                   175 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   46 mins             ███████████████████░░░░░░   76.86 % 
-C                        9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Python                   46 mins             ████████████░░░░░░░░░░░░░   49.48 % 
+C++                      26 mins             ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+C                        9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+C#                       6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+TypeScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  51 mins             █████████████████████░░░░   84.40 % 
-Neovim                   9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+VS Code                  1 hr 18 mins        █████████████████████░░░░   83.28 % 
+Neovim                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 
 🐱‍💻 Projects: 
-FaceRecognition          47 mins             ███████████████████░░░░░░   77.21 % 
-Unknown Project          9 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
-egg-shop                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+FaceRecognition          47 mins             ████████████░░░░░░░░░░░░░   49.70 % 
+ArduinoDroneController   27 mins             ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Unknown Project          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+SimpleProject            6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+egg-shop                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 💻 Operating System: 
-Linux                    1 hr 1 min          █████████████████████████   100.00 % 
+Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -89,7 +91,7 @@ Assembly                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 12:46:50 UTC
+ Last Updated on 27/07/2026 14:01:19 UTC
 <!--END_SECTION:waka-->
 
 ###
