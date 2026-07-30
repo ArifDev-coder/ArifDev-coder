@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,25 +59,25 @@ Sunday                   177 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      1 hr 10 mins        ████████████░░░░░░░░░░░░░   46.50 % 
-Python                   46 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
-C#                       21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+C++                      1 hr 10 mins        ███████████████░░░░░░░░░░   59.32 % 
+C#                       35 mins             ████████░░░░░░░░░░░░░░░░░   30.24 % 
+C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 15 mins       ██████████████████████░░░   89.54 % 
-Neovim                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+VS Code                  1 hr 28 mins        ███████████████████░░░░░░   74.59 % 
+Neovim                   30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
 
 🐱‍💻 Projects: 
-ArduinoDroneController   1 hr 11 mins        ████████████░░░░░░░░░░░░░   47.09 % 
-FaceRecognition          47 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
-SimpleProject            14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Dungeon-Slime-Monogame   7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+ArduinoDroneController   1 hr 11 mins        ███████████████░░░░░░░░░░   60.08 % 
+SimpleProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Dungeon-Slime-Monogame   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
+Simple-PingPong-Monogame 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
+Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
 
 💻 Operating System: 
-Linux                    2 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 13:27:06 UTC
+ Last Updated on 30/07/2026 13:17:14 UTC
 <!--END_SECTION:waka-->
 
 ###
