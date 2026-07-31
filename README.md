@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -24,32 +24,32 @@
 
 > 📦 190.9 kB Used in GitHub's Storage 
  > 
-> 🏆 462 Contributions in the Year 2026
+> 🏆 465 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 32 Public Repositories 
+> 📜 33 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-🌆 Daytime                231 commits         ██████░░░░░░░░░░░░░░░░░░░   25.72 % 
-🌃 Evening                511 commits         ██████████████░░░░░░░░░░░   56.90 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+🌆 Daytime                233 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌃 Evening                511 commits         ██████████████░░░░░░░░░░░   56.78 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Friday                   151 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Sunday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
 ```
 
 
@@ -59,25 +59,25 @@ Sunday                   177 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      1 hr 10 mins        ███████████████░░░░░░░░░░   59.32 % 
-C#                       35 mins             ████████░░░░░░░░░░░░░░░░░   30.24 % 
-C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-INI                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+C++                      1 hr 10 mins        █████████████░░░░░░░░░░░░   50.48 % 
+C#                       35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
+CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
+HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🔥 Editors: 
-VS Code                  1 hr 28 mins        ███████████████████░░░░░░   74.59 % 
-Neovim                   30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+VS Code                  1 hr 49 mins        ████████████████████░░░░░   78.38 % 
+Neovim                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
 
 🐱‍💻 Projects: 
-ArduinoDroneController   1 hr 11 mins        ███████████████░░░░░░░░░░   60.08 % 
-SimpleProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Dungeon-Slime-Monogame   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Simple-PingPong-Monogame 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
-Unknown Project          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+ArduinoDroneController   1 hr 11 mins        █████████████░░░░░░░░░░░░   51.12 % 
+ZodiakAnalyzer           20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+SimpleProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+Dungeon-Slime-Monogame   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Simple-PingPong-Monogame 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 💻 Operating System: 
-Linux                    1 hr 58 mins        █████████████████████████   100.00 % 
+Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 13:17:14 UTC
+ Last Updated on 31/07/2026 13:20:40 UTC
 <!--END_SECTION:waka-->
 
 ###
