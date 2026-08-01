@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2038%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,25 +59,25 @@ Sunday                   177 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      1 hr 10 mins        █████████████░░░░░░░░░░░░   50.48 % 
-C#                       35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-CSS                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
-C                        9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-HTML                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+HTML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+C++                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
+C#                       35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
 
 🔥 Editors: 
-VS Code                  1 hr 49 mins        ████████████████████░░░░░   78.38 % 
-Neovim                   30 mins             █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+VS Code                  3 hrs 34 mins       █████████████████████░░░░   84.69 % 
+Neovim                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 
 🐱‍💻 Projects: 
-ArduinoDroneController   1 hr 11 mins        █████████████░░░░░░░░░░░░   51.12 % 
-ZodiakAnalyzer           20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-SimpleProject            14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Dungeon-Slime-Monogame   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Simple-PingPong-Monogame 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+ZodiakAnalyzer           1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
+ArduinoDroneController   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
+Day1                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+SimpleProject            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Linux                    2 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2026 13:20:40 UTC
+ Last Updated on 01/08/2026 12:42:42 UTC
 <!--END_SECTION:waka-->
 
 ###
