@@ -22,9 +22,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 190.9 kB Used in GitHub's Storage 
+> 📦 191.0 kB Used in GitHub's Storage 
  > 
-> 🏆 465 Contributions in the Year 2026
+> 🏆 479 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                96 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-🌆 Daytime                233 commits         ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
-🌃 Evening                511 commits         ██████████████░░░░░░░░░░░   56.78 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+🌞 Morning                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+🌆 Daytime                233 commits         ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌃 Evening                516 commits         ██████████████░░░░░░░░░░░   56.46 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   144 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
-Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
-Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sunday                   177 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Monday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Saturday                 107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Sunday                   182 commits         █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
 ```
 
 
@@ -59,25 +59,25 @@ Sunday                   177 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.73 % 
-C++                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-C#                       35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+HTML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
+C++                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
+C#                       35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
+JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       █████████████████████░░░░   84.69 % 
-Neovim                   38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+VS Code                  3 hrs 34 mins       ██████████████████████░░░   87.99 % 
+Neovim                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 
 🐱‍💻 Projects: 
-ZodiakAnalyzer           1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-ArduinoDroneController   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-Day1                     54 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-Unknown Project          18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-SimpleProject            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+ZodiakAnalyzer           1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
+ArduinoDroneController   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+Day1                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+SimpleProject            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Dungeon-Slime-Monogame   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
 
 💻 Operating System: 
-Linux                    4 hrs 13 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 12:42:42 UTC
+ Last Updated on 02/08/2026 12:43:58 UTC
 <!--END_SECTION:waka-->
 
 ###
