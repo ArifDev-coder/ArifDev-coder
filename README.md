@@ -59,25 +59,25 @@ Sunday                   182 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   32.97 % 
-C++                      1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   28.84 % 
-C#                       35 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+HTML                     1 hr 20 mins        ██████████░░░░░░░░░░░░░░░   38.26 % 
+C++                      43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+C#                       29 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 34 mins       ██████████████████████░░░   87.99 % 
-Neovim                   29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+VS Code                  3 hrs 7 mins        ██████████████████████░░░   89.08 % 
+Neovim                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
 
 🐱‍💻 Projects: 
-ZodiakAnalyzer           1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-ArduinoDroneController   1 hr 11 mins        ███████░░░░░░░░░░░░░░░░░░   29.21 % 
-Day1                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-SimpleProject            14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Dungeon-Slime-Monogame   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
+ZodiakAnalyzer           1 hr 11 mins        ████████░░░░░░░░░░░░░░░░░   34.00 % 
+Day1                     54 mins             ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+ArduinoDroneController   43 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+Dungeon-Slime-Monogame   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Simple-PingPong-Monogame 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
 
 💻 Operating System: 
-Linux                    4 hrs 4 mins        █████████████████████████   100.00 % 
+Linux                    3 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 12:43:58 UTC
+ Last Updated on 03/08/2026 14:04:41 UTC
 <!--END_SECTION:waka-->
 
 ###
