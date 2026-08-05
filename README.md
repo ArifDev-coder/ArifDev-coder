@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-316%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,24 +59,25 @@ Sunday                   182 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-HTML                     1 hr 20 mins        █████████████░░░░░░░░░░░░   52.81 % 
-JavaScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-CSS                      27 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
-C#                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+HTML                     1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.65 % 
+GDScript3                1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.37 % 
+JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+C#                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 9 mins        █████████████████████░░░░   84.97 % 
-Neovim                   23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+VS Code                  3 hrs 19 mins       ██████████████████████░░░   89.66 % 
+Neovim                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
 
 🐱‍💻 Projects: 
-ZodiakAnalyzer           1 hr 12 mins        ████████████░░░░░░░░░░░░░   47.48 % 
-Day1                     54 mins             █████████░░░░░░░░░░░░░░░░   35.82 % 
-Simple-PingPong-Monogame 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
-Dungeon-Slime-Monogame   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+ZodiakAnalyzer           1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.65 % 
+dekstop-pet              1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.38 % 
+Day1                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.63 % 
+Simple-PingPong-Monogame 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
 
 💻 Operating System: 
-Linux                    2 hrs 32 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 13:26:27 UTC
+ Last Updated on 05/08/2026 13:25:24 UTC
 <!--END_SECTION:waka-->
 
 ###
