@@ -59,25 +59,25 @@ Sunday                   182 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                1 hr 23 mins        █████████░░░░░░░░░░░░░░░░   37.40 % 
-HTML                     1 hr 19 mins        █████████░░░░░░░░░░░░░░░░   35.64 % 
-JavaScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-CSS                      26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+GDScript3                1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.44 % 
+HTML                     1 hr 11 mins        █████████░░░░░░░░░░░░░░░░   35.53 % 
+JavaScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.95 % 
+CSS                      12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 35 mins       ████████████████████████░   96.13 % 
-Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+VS Code                  3 hrs 13 mins       ████████████████████████░   95.72 % 
+Neovim                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🐱‍💻 Projects: 
-ZodiakAnalyzer           1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   32.66 % 
-dekstop-pet              1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Day1                     54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Dekstop-Pet-Godot        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+dekstop-pet              1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   35.61 % 
+Day1                     54 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+ZodiakAnalyzer           51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+Dekstop-Pet-Godot        15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 13:22:59 UTC
+ Last Updated on 07/08/2026 12:31:10 UTC
 <!--END_SECTION:waka-->
 
 ###
