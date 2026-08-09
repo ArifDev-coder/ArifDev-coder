@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,23 +59,23 @@ Sunday                   182 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                1 hr 23 mins        ████████████████████████░   95.46 % 
-Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+GDScript3                3 hrs 58 mins       █████████████████████████   98.10 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  1 hr 27 mins        █████████████████████████   99.64 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+VS Code                  4 hrs 2 mins        █████████████████████████   99.87 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              1 hr 12 mins        █████████████████████░░░░   82.03 % 
-Dekstop-Pet-Godot        15 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Dekstop-Pet-Godot        2 hrs 50 mins       ██████████████████░░░░░░░   70.23 % 
+dekstop-pet              1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Linux                    1 hr 27 mins        █████████████████████████   100.00 % 
+Linux                    4 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2026 12:16:13 UTC
+ Last Updated on 09/08/2026 12:16:54 UTC
 <!--END_SECTION:waka-->
 
 ###
