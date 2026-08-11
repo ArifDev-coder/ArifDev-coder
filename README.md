@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-320%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 > 📦 191.0 kB Used in GitHub's Storage 
  > 
-> 🏆 488 Contributions in the Year 2026
+> 🏆 489 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                106 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-🌆 Daytime                233 commits         ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
-🌃 Evening                523 commits         ██████████████░░░░░░░░░░░   56.72 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌞 Morning                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+🌆 Daytime                233 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+🌃 Evening                523 commits         ██████████████░░░░░░░░░░░   56.66 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
+Monday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Tuesday                  111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Wednesday                99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
 ```
 
 
@@ -59,23 +59,23 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                4 hrs 12 mins       █████████████████████████   98.21 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+GDScript3                4 hrs 35 mins       █████████████████████████   98.35 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 16 mins       █████████████████████████   99.88 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   99.89 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Dekstop-Pet-Godot        3 hrs 4 mins        ██████████████████░░░░░░░   71.86 % 
-dekstop-pet              1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Dekstop-Pet-Godot        3 hrs 4 mins        █████████████████░░░░░░░░   66.07 % 
+dekstop-pet              1 hr 34 mins        ████████░░░░░░░░░░░░░░░░░   33.82 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 💻 Operating System: 
-Linux                    4 hrs 17 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/08/2026 12:34:48 UTC
+ Last Updated on 11/08/2026 12:30:45 UTC
 <!--END_SECTION:waka-->
 
 ###
