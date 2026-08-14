@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,25 +59,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                6 hrs 49 mins       ███████████████████████░░   91.31 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+GDScript3                8 hrs 19 mins       ███████████████████████░░   92.76 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 28 mins       █████████████████████████   99.93 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+VS Code                  8 hrs 58 mins       █████████████████████████   99.94 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              4 hrs 1 min         █████████████░░░░░░░░░░░░   53.72 % 
-Dekstop-Pet-Godot        2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   37.72 % 
-AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+dekstop-pet              5 hrs 30 mins       ███████████████░░░░░░░░░░   61.43 % 
+Dekstop-Pet-Godot        2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Linux                    7 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2026 12:36:16 UTC
+ Last Updated on 14/08/2026 12:30:08 UTC
 <!--END_SECTION:waka-->
 
 ###
