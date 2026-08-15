@@ -59,22 +59,19 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                8 hrs 19 mins       ███████████████████████░░   92.76 % 
+GDScript3                8 hrs 19 mins       ███████████████████████░░   92.81 % 
 HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 58 mins       █████████████████████████   99.94 % 
-Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VS Code                  8 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              5 hrs 30 mins       ███████████████░░░░░░░░░░   61.43 % 
-Dekstop-Pet-Godot        2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+dekstop-pet              5 hrs 30 mins       ███████████████░░░░░░░░░░   61.46 % 
+Dekstop-Pet-Godot        2 hrs 49 mins       ████████░░░░░░░░░░░░░░░░░   31.46 % 
 AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
 Linux                    8 hrs 58 mins       █████████████████████████   100.00 % 
@@ -99,7 +96,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/08/2026 12:30:08 UTC
+ Last Updated on 15/08/2026 11:59:56 UTC
 <!--END_SECTION:waka-->
 
 ###
