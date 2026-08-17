@@ -59,21 +59,20 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                5 hrs 44 mins       ███████████████████████░░   90.06 % 
-HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+GDScript3                5 hrs 30 mins       ██████████████████████░░░   89.68 % 
+HTML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 22 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              5 hrs 30 mins       ██████████████████████░░░   86.39 % 
-AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-Dekstop-Pet-Godot        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+dekstop-pet              5 hrs 30 mins       ██████████████████████░░░   89.68 % 
+AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 
 💻 Operating System: 
-Linux                    6 hrs 22 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 8 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +94,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 12:00:37 UTC
+ Last Updated on 17/08/2026 12:02:42 UTC
 <!--END_SECTION:waka-->
 
 ###
