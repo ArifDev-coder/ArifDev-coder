@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-327%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-328%20hrs%2055%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -59,20 +59,21 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                5 hrs 30 mins       ██████████████████████░░░   89.68 % 
-HTML                     37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GDScript3                6 hrs 59 mins       ███████████████████████░░   91.68 % 
+HTML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  7 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              5 hrs 30 mins       ██████████████████████░░░   89.68 % 
-AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+dekstop-pet              5 hrs 8 mins        █████████████████░░░░░░░░   67.35 % 
+aarpg-learn              1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   24.33 % 
+AchmadZainulArif_RPL_WEB 34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+materi01                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 💻 Operating System: 
-Linux                    6 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    7 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +95,7 @@ GDScript                 1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2026 12:02:42 UTC
+ Last Updated on 18/08/2026 12:04:14 UTC
 <!--END_SECTION:waka-->
 
 ###
