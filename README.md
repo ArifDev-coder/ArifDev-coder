@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-332%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2048%20mins-blue?style=flat)
 
@@ -22,9 +22,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 191.1 kB Used in GitHub's Storage 
+> 📦 191.2 kB Used in GitHub's Storage 
  > 
-> 🏆 498 Contributions in the Year 2026
+> 🏆 499 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,21 +35,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-🌆 Daytime                234 commits         ██████░░░░░░░░░░░░░░░░░░░   25.13 % 
-🌃 Evening                530 commits         ██████████████░░░░░░░░░░░   56.93 % 
+🌞 Morning                107 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                235 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌃 Evening                530 commits         ██████████████░░░░░░░░░░░   56.87 % 
 🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Wednesday                100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-Saturday                 109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Monday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Wednesday                100 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Saturday                 110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
 ```
 
 
@@ -59,21 +59,22 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                4 hrs 2 mins        █████████████████████████   98.72 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+GDScript3                5 hrs 32 mins       █████████████████████████   99.06 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-aarpg-learn              1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.26 % 
-aarpg-with-godot-engine  1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   30.61 % 
-Desktop-Pet-Godot        59 mins             ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+aarpg-with-godot-engine  2 hrs 44 mins       ████████████░░░░░░░░░░░░░   49.12 % 
+aarpg-learn              1 hr 51 mins        ████████░░░░░░░░░░░░░░░░░   33.19 % 
+Desktop-Pet-Godot        59 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
 
 💻 Operating System: 
-Linux                    4 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,7 +96,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/08/2026 12:15:23 UTC
+ Last Updated on 22/08/2026 12:01:11 UTC
 <!--END_SECTION:waka-->
 
 ###
