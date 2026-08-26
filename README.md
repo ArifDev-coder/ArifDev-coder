@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-325%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-326%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -24,14 +24,65 @@
 
 > 📦 191.2 kB Used in GitHub's Storage 
  > 
-> 🏆 503 Contributions in the Year 2026
+> 🏆 508 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 3 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
+🌆 Daytime                235 commits         ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+🌃 Evening                538 commits         ██████████████░░░░░░░░░░░   57.17 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Wednesday                105 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+Thursday                 117 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Friday                   153 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Saturday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+GDScript3                6 hrs 34 mins       █████████████████████████   99.19 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+
+🔥 Editors: 
+VS Code                  6 hrs 37 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+aarpg-with-godot-engine  3 hrs 48 mins       ██████████████░░░░░░░░░░░   57.45 % 
+dekstop-pet              1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.61 % 
+Desktop-Pet-Godot        59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+
+💻 Operating System: 
+Linux                    6 hrs 37 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -45,7 +96,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026 12:17:06 UTC
+ Last Updated on 26/08/2026 12:18:51 UTC
 <!--END_SECTION:waka-->
 
 ###
