@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-329%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-330%20hrs%2029%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -59,24 +59,24 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                4 hrs 25 mins       ████████████████████░░░░░   79.18 % 
-HTML                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+GDScript3                4 hrs 15 mins       ████████████████████░░░░░   78.49 % 
+HTML                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   32.67 % 
-aarpg-with-godot-engine  1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
-Ethics                   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-Silk-Moon-Requiem        55 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-SlikMoonRequiem          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+dekstop-pet              1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Silk-Moon-Requiem        1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
+Ethics                   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+SlikMoonRequiem          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+aarpg-with-godot-engine  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 💻 Operating System: 
-Linux                    5 hrs 35 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 15:30:09 UTC
+ Last Updated on 31/08/2026 18:11:02 UTC
 <!--END_SECTION:waka-->
 
 ###
