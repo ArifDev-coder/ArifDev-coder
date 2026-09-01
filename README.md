@@ -59,24 +59,23 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                4 hrs 15 mins       ████████████████████░░░░░   78.49 % 
-HTML                     1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GDScript3                2 hrs 25 mins       █████████████████░░░░░░░░   67.56 % 
+HTML                     1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.95 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 35 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dekstop-pet              1 hr 49 mins        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-Silk-Moon-Requiem        1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.23 % 
-Ethics                   1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-SlikMoonRequiem          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-aarpg-with-godot-engine  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+Silk-Moon-Requiem        1 hr 48 mins        █████████████░░░░░░░░░░░░   50.15 % 
+Ethics                   1 hr 8 mins         ████████░░░░░░░░░░░░░░░░░   31.95 % 
+SlikMoonRequiem          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+aarpg-with-godot-engine  18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 💻 Operating System: 
-Linux                    5 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +97,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026 18:11:02 UTC
+ Last Updated on 01/09/2026 15:35:17 UTC
 <!--END_SECTION:waka-->
 
 ###
