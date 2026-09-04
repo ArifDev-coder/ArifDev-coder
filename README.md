@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-331%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-334%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -59,24 +59,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                2 hrs 32 mins       █████████████░░░░░░░░░░░░   52.39 % 
-HTML                     2 hrs 17 mins       ████████████░░░░░░░░░░░░░   47.24 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+GDScript3                4 hrs 55 mins       █████████████████░░░░░░░░   67.79 % 
+HTML                     2 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 51 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 13 mins       █████████████████████░░░░   85.69 % 
+Godot                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 🐱‍💻 Projects: 
-Silk-Moon-Requiem        1 hr 48 mins        █████████░░░░░░░░░░░░░░░░   37.06 % 
-dasar_dasar_pplg_wildan  1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Ethics                   1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-aarpg-with-godot-engine  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-SlikMoonRequiem          20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
+Silk-Moon-Requiem        2 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
+aarpg-with-godot-engine  1 hr 51 mins        ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+dasar_dasar_pplg_wildan  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Ethics                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Silk Moon: Requiem       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
 
 💻 Operating System: 
-Linux                    4 hrs 51 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 15:16:08 UTC
+ Last Updated on 04/09/2026 15:10:19 UTC
 <!--END_SECTION:waka-->
 
 ###
