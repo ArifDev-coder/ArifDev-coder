@@ -59,24 +59,24 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                3 hrs 52 mins       █████████████░░░░░░░░░░░░   51.81 % 
-HTML                     3 hrs 34 mins       ████████████░░░░░░░░░░░░░   47.79 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+GDScript3                3 hrs 52 mins       ███████████████░░░░░░░░░░   61.20 % 
+HTML                     2 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   38.32 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 26 mins       ██████████████████████░░░   86.10 % 
-Godot                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+VS Code                  5 hrs 17 mins       █████████████████████░░░░   83.58 % 
+Godot                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 
 🐱‍💻 Projects: 
-aarpg-with-godot-engine  1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-TUGAS                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
-dasar_dasar_pplg_wildan  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Ethics                   1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
-Silk-Moon-Requiem        1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+aarpg-with-godot-engine  1 hr 43 mins        ███████░░░░░░░░░░░░░░░░░░   27.15 % 
+TUGAS                    1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
+dasar_dasar_pplg_wildan  1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Silk-Moon-Requiem        1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Silk Moon: Requiem       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 
 💻 Operating System: 
-Linux                    7 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -98,7 +98,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2026 14:01:52 UTC
+ Last Updated on 06/09/2026 14:26:46 UTC
 <!--END_SECTION:waka-->
 
 ###
