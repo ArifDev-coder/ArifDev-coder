@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -24,7 +24,7 @@
 
 > 📦 225.1 kB Used in GitHub's Storage 
  > 
-> 🏆 517 Contributions in the Year 2026
+> 🏆 518 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,25 +59,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                3 hrs 5 mins        ████████████░░░░░░░░░░░░░   46.00 % 
-HTML                     2 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.99 % 
-Python                   1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-ObjectPascal             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+GDScript3                3 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.61 % 
+HTML                     3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
+Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+ObjectPascal             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 41 mins       █████████████████████░░░░   84.58 % 
-Godot                    1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+VS Code                  7 hrs 27 mins       ██████████████████████░░░   87.77 % 
+Godot                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 
 🐱‍💻 Projects: 
-aarpg-with-godot-engine  1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.07 % 
-TUGAS                    1 hr 16 mins        █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Test                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-dasar_dasar_pplg_wildan  1 hr 8 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Silk Moon: Requiem       1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+aarpg-with-godot-engine  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+TUGAS                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Test                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+dasar_dasar_pplg_wildan  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+Silk Moon: Requiem       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
 
 💻 Operating System: 
-Linux                    6 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 15:23:15 UTC
+ Last Updated on 09/09/2026 15:21:01 UTC
 <!--END_SECTION:waka-->
 
 ###
