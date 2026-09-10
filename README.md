@@ -14,7 +14,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-338%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-340%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -22,9 +22,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 225.1 kB Used in GitHub's Storage 
+> 📦 225.2 kB Used in GitHub's Storage 
  > 
-> 🏆 518 Contributions in the Year 2026
+> 🏆 521 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -32,60 +32,6 @@
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-🌆 Daytime                240 commits         ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
-🌃 Evening                542 commits         ██████████████░░░░░░░░░░░   57.05 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-Thursday                 118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Friday                   154 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.21 % 
-Saturday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-GDScript3                3 hrs 57 mins       ████████████░░░░░░░░░░░░░   46.61 % 
-HTML                     3 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   39.10 % 
-Python                   1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
-ObjectPascal             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-🔥 Editors: 
-VS Code                  7 hrs 27 mins       ██████████████████████░░░   87.77 % 
-Godot                    1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-
-🐱‍💻 Projects: 
-aarpg-with-godot-engine  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-TUGAS                    1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-Test                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
-dasar_dasar_pplg_wildan  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Silk Moon: Requiem       1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-
-💻 Operating System: 
-Linux                    8 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,7 +45,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/09/2026 15:21:01 UTC
+ Last Updated on 10/09/2026 15:13:47 UTC
 <!--END_SECTION:waka-->
 
 ###
