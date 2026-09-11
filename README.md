@@ -2,6 +2,8 @@
 
 ## Hi there! I'am ArifDev 👋
 
+**I'm Student Of Vocational High School 1 Purwosari. I live in Indonesia.**
+
 - 🌱 ***I Love Learning How Technology Works***
 - ⚡ ***Fun fact***: I'am 16yo and I start learn coding on 12yo
 
