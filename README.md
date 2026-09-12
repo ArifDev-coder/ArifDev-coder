@@ -18,42 +18,42 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.2 kB Used in GitHub's Storage 
+> 📦 225.3 kB Used in GitHub's Storage 
  > 
-> 🏆 524 Contributions in the Year 2026
+> 🏆 529 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 36 Public Repositories 
+> 📜 37 Public Repositories 
  > 
-> 🔑 3 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-🌆 Daytime                243 commits         ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-🌃 Evening                545 commits         ██████████████░░░░░░░░░░░   57.01 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+🌞 Morning                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+🌆 Daytime                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.55 % 
+🌃 Evening                545 commits         ██████████████░░░░░░░░░░░   56.83 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Saturday                 111 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+Monday                   156 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
+Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
 ```
 
 
@@ -63,25 +63,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
-HTML                     2 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-Python                   1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
-ObjectPascal             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+GDScript3                2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+Python                   1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
+JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
+HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+ObjectPascal             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 55 mins       ████████████████████████░   94.64 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+VS Code                  7 hrs 55 mins       ████████████████████████░   94.01 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🐱‍💻 Projects: 
-SongLyrics               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-dekstop-pet              1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-TUGAS                    1 hr 26 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Test                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-AchmadZainulArif_RPL_WEB 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+SongLyrics               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+dekstop-pet              1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+Test                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
+AchmadZainulArif_RPL_WEB 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+aarpg-with-godot-engine  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -90,20 +90,20 @@ Linux                    9 hrs 25 mins       ███████████�
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in HTML** 
 
 ```text
-JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-HTML                     8 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-C#                       4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-GDScript                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+HTML                     9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+JavaScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   22.50 % 
+GDScript                 4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C#                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
 ```
 
 
 
 
- Last Updated on 11/09/2026 15:15:58 UTC
+ Last Updated on 12/09/2026 14:25:12 UTC
 <!--END_SECTION:waka-->
 
 ###
