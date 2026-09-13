@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-345%20hrs%2015%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -63,25 +63,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                2 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
-Python                   1 hr 59 mins        ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-HTML                     53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-ObjectPascal             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
+GDScript3                3 hrs 42 mins       ██████████░░░░░░░░░░░░░░░   39.57 % 
+Python                   1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+ObjectPascal             34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 55 mins       ████████████████████████░   94.01 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+VS Code                  8 hrs 53 mins       ████████████████████████░   94.62 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🐱‍💻 Projects: 
-SongLyrics               1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-dekstop-pet              1 hr 57 mins        ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
-Test                     1 hr 11 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-AchmadZainulArif_RPL_WEB 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-aarpg-with-godot-engine  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+SongLyrics               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+dekstop-pet              1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
+aarpg-with-godot-engine  1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
+Test                     1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+AchmadZainulArif_RPL_WEB 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
 
 💻 Operating System: 
-Linux                    8 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 14:25:12 UTC
+ Last Updated on 13/09/2026 15:06:09 UTC
 <!--END_SECTION:waka-->
 
 ###
