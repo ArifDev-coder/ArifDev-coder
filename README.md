@@ -28,7 +28,7 @@
 
 > 📦 225.3 kB Used in GitHub's Storage 
  > 
-> 🏆 534 Contributions in the Year 2026
+> 🏆 537 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                109 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-🌆 Daytime                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌃 Evening                549 commits         ██████████████░░░░░░░░░░░   57.01 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+🌆 Daytime                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
+🌃 Evening                551 commits         ██████████████░░░░░░░░░░░   57.04 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   19.00 % 
+Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Wednesday                112 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
 ```
 
 
@@ -63,25 +63,25 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                6 hrs 37 mins       ███████████████░░░░░░░░░░   59.56 % 
-JSON                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-HTML                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-ObjectPascal             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+GDScript3                5 hrs 45 mins       ███████████████░░░░░░░░░░   61.54 % 
+JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+ObjectPascal             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 36 mins      ████████████████████████░   95.46 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+VS Code                  8 hrs 51 mins       ████████████████████████░   94.61 % 
+Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
 
 🐱‍💻 Projects: 
-2d-platformer-basics     3 hrs               ███████░░░░░░░░░░░░░░░░░░   27.11 % 
-SongLyrics               1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-dekstop-pet              1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-aarpg-with-godot-engine  1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-AchmadZainulArif_RPL_WEB 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+2d-platformer-basics     3 hrs               ████████░░░░░░░░░░░░░░░░░   32.20 % 
+SongLyrics               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+aarpg-with-godot-engine  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+dekstop-pet              1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+C-Project-Experiment     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 
 💻 Operating System: 
-Linux                    11 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 17:05:04 UTC
+ Last Updated on 15/09/2026 15:44:11 UTC
 <!--END_SECTION:waka-->
 
 ###
