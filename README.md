@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -36,60 +36,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-🌆 Daytime                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
-🌃 Evening                553 commits         ██████████████░░░░░░░░░░░   57.13 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Friday                   157 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-GDScript3                5 hrs 45 mins       ███████████████░░░░░░░░░░   61.54 % 
-JSON                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Python                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-ObjectPascal             27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-
-🔥 Editors: 
-VS Code                  8 hrs 51 mins       ████████████████████████░   94.61 % 
-Neovim                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-
-🐱‍💻 Projects: 
-2d-platformer-basics     3 hrs               ████████░░░░░░░░░░░░░░░░░   32.20 % 
-SongLyrics               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
-aarpg-with-godot-engine  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-dekstop-pet              1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-C-Project-Experiment     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-
-💻 Operating System: 
-Linux                    9 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
@@ -103,7 +49,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 15:35:40 UTC
+ Last Updated on 17/09/2026 15:41:46 UTC
 <!--END_SECTION:waka-->
 
 ###
