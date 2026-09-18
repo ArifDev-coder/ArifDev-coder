@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-352%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -28,7 +28,7 @@
 
 > 📦 225.3 kB Used in GitHub's Storage 
  > 
-> 🏆 539 Contributions in the Year 2026
+> 🏆 540 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,6 +36,59 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+🌆 Daytime                245 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌃 Evening                554 commits         ██████████████░░░░░░░░░░░   57.17 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Friday                   158 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Sunday                   183 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+GDScript3                6 hrs 26 mins       █████████████████░░░░░░░░   66.97 % 
+HTML                     3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.59 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 36 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+2d-platformer-basics     3 hrs               ████████░░░░░░░░░░░░░░░░░   31.37 % 
+2D-Platformer            2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
+aarpg-with-godot-engine  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
+Table-TUGAS              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Table                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+
+💻 Operating System: 
+Linux                    9 hrs 36 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -49,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/09/2026 15:41:46 UTC
+ Last Updated on 18/09/2026 15:12:54 UTC
 <!--END_SECTION:waka-->
 
 ###
