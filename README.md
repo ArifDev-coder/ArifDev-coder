@@ -22,7 +22,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,24 +63,24 @@ Sunday                   183 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-GDScript3                6 hrs 26 mins       █████████████████░░░░░░░░   66.97 % 
-HTML                     3 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   32.59 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+GDScript3                5 hrs 58 mins       ████████████████░░░░░░░░░   65.58 % 
+HTML                     3 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.32 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GDScript                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 36 mins       █████████████████████████   100.00 % 
+VS Code                  9 hrs 7 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2d-platformer-basics     3 hrs               ████████░░░░░░░░░░░░░░░░░   31.37 % 
-2D-Platformer            2 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-aarpg-with-godot-engine  1 hr 27 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.12 % 
-Table-TUGAS              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Table                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+2d-platformer-basics     3 hrs               ████████░░░░░░░░░░░░░░░░░   33.03 % 
+2D-Platformer            2 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
+Table-TUGAS              1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
+aarpg-with-godot-engine  58 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+Table                    51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
 
 💻 Operating System: 
-Linux                    9 hrs 36 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/09/2026 15:12:54 UTC
+ Last Updated on 19/09/2026 14:51:04 UTC
 <!--END_SECTION:waka-->
 
 ###
