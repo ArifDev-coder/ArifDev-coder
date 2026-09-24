@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-363%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-366%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -63,24 +63,24 @@ Sunday                   197 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       9 hrs 1 min         ███████████████░░░░░░░░░░   60.31 % 
-HTML                     3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-GDScript3                2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+C#                       9 hrs 1 min         ████████████████░░░░░░░░░   63.10 % 
+HTML                     4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.29 % 
+GDScript3                33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-desktop-pet-with-c#      8 hrs 28 mins       ██████████████░░░░░░░░░░░   56.58 % 
-2D-Platformer            2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Table-TUGAS              1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-Table                    51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-2d-platformer-with-c#    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+desktop-pet-with-c#      8 hrs 28 mins       ███████████████░░░░░░░░░░   59.20 % 
+Table-TUGAS              2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Form                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.22 % 
+TableChallenge           40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+2d-platformer-with-c#    38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
 
 💻 Operating System: 
-Linux                    14 hrs 58 mins      █████████████████████████   100.00 % 
+Linux                    14 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 15:36:22 UTC
+ Last Updated on 24/09/2026 15:57:42 UTC
 <!--END_SECTION:waka-->
 
 ###
