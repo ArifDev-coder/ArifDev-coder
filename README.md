@@ -18,11 +18,11 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -36,6 +36,59 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+🌆 Daytime                248 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+🌃 Evening                568 commits         ██████████████░░░░░░░░░░░   57.61 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Sunday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+C#                       5 hrs 40 mins       ███████████████░░░░░░░░░░   58.02 % 
+HTML                     3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
+GDScript3                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 46 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+2D-Platformer            5 hrs 51 mins       ███████████████░░░░░░░░░░   60.00 % 
+TableWithInput           2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
+QUIZ                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+SMK                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+TableChallenge           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+
+💻 Operating System: 
+Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -49,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2026 17:04:16 UTC
+ Last Updated on 30/09/2026 17:02:16 UTC
 <!--END_SECTION:waka-->
 
 ###
