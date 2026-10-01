@@ -63,24 +63,22 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       5 hrs 40 mins       ███████████████░░░░░░░░░░   58.02 % 
-HTML                     3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   40.00 % 
-GDScript3                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+C#                       5 hrs 40 mins       █████████████████░░░░░░░░   68.10 % 
+HTML                     2 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   29.58 % 
+GDScript3                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  8 hrs 19 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2D-Platformer            5 hrs 51 mins       ███████████████░░░░░░░░░░   60.00 % 
-TableWithInput           2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-QUIZ                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-SMK                      26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-TableChallenge           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+2D-Platformer            5 hrs 51 mins       ██████████████████░░░░░░░   70.42 % 
+TableWithInput           1 hr 33 mins        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+QUIZ                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
 
 💻 Operating System: 
-Linux                    9 hrs 46 mins       █████████████████████████   100.00 % 
+Linux                    8 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +100,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2026 17:02:16 UTC
+ Last Updated on 01/10/2026 17:31:30 UTC
 <!--END_SECTION:waka-->
 
 ###
