@@ -63,22 +63,22 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       5 hrs 40 mins       █████████████████░░░░░░░░   69.71 % 
-HTML                     2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-GDScript3                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-Godot Resource           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+C#                       4 hrs 38 mins       █████████████████░░░░░░░░   66.40 % 
+HTML                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
+GDScript3                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 8 mins        █████████████████████████   100.00 % 
+VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-2D-Platformer            5 hrs 51 mins       ██████████████████░░░░░░░   72.09 % 
-TableWithInput           1 hr 22 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-QUIZ                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+2D-Platformer            4 hrs 43 mins       █████████████████░░░░░░░░   67.55 % 
+TableWithInput           1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+QUIZ                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
 
 💻 Operating System: 
-Linux                    8 hrs 8 mins        █████████████████████████   100.00 % 
+Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 16:00:59 UTC
+ Last Updated on 06/10/2026 17:26:38 UTC
 <!--END_SECTION:waka-->
 
 ###
