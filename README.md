@@ -63,22 +63,16 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C#                       4 hrs 38 mins       █████████████████░░░░░░░░   66.40 % 
-HTML                     2 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   32.45 % 
-GDScript3                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
-Godot Resource           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-2D-Platformer            4 hrs 43 mins       █████████████████░░░░░░░░   67.55 % 
-TableWithInput           1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
-QUIZ                     54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    6 hrs 59 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +94,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 17:26:38 UTC
+ Last Updated on 07/10/2026 17:59:29 UTC
 <!--END_SECTION:waka-->
 
 ###
