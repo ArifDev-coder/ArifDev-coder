@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-376%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -28,7 +28,7 @@
 
 > 📦 231.2 kB Used in GitHub's Storage 
  > 
-> 🏆 558 Contributions in the Year 2026
+> 🏆 572 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,21 +39,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                110 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-🌆 Daytime                248 commits         ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
-🌃 Evening                568 commits         ██████████████░░░░░░░░░░░   57.61 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
+🌆 Daytime                252 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌃 Evening                570 commits         ██████████████░░░░░░░░░░░   57.00 % 
+🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   161 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Tuesday                  119 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
-Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
-Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Sunday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Monday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
+Tuesday                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Sunday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
 ```
 
 
@@ -63,16 +63,23 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr 28 mins        ████████████████░░░░░░░░░   65.29 % 
+Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 54 mins        █████████████████████░░░░   84.53 % 
+Neovim                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+MachineLearning          1 hr 16 mins        ██████████████░░░░░░░░░░░   55.95 % 
+linux-discord-rich-presen38 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
+Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -94,7 +101,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2026 20:27:21 UTC
+ Last Updated on 13/10/2026 18:32:59 UTC
 <!--END_SECTION:waka-->
 
 ###
