@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-379%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -63,23 +63,24 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        ████████████████░░░░░░░░░   65.29 % 
-Other                    24 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-JSON                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
-Bash                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Python                   1 hr 28 mins        ███████████░░░░░░░░░░░░░░   44.77 % 
+C#                       54 mins             ███████░░░░░░░░░░░░░░░░░░   27.65 % 
+Other                    24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Godot Resource           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 
 🔥 Editors: 
-VS Code                  1 hr 54 mins        █████████████████████░░░░   84.53 % 
-Neovim                   21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+VS Code                  2 hrs 57 mins       ██████████████████████░░░   89.39 % 
+Neovim                   21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 
 🐱‍💻 Projects: 
-MachineLearning          1 hr 16 mins        ██████████████░░░░░░░░░░░   55.95 % 
-linux-discord-rich-presen38 mins             ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Unknown Project          21 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+MachineLearning          1 hr 16 mins        ██████████░░░░░░░░░░░░░░░   38.37 % 
+2D-Platformer            1 hr 2 mins         ████████░░░░░░░░░░░░░░░░░   31.43 % 
+linux-discord-rich-presen38 mins             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Unknown Project          21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
 
 💻 Operating System: 
-Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 18:32:59 UTC
+ Last Updated on 14/10/2026 15:59:49 UTC
 <!--END_SECTION:waka-->
 
 ###
