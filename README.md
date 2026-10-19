@@ -18,11 +18,11 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-383%20hrs%206%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2024%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,25 +63,25 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      3 hrs 49 mins       █████████████░░░░░░░░░░░░   53.03 % 
-Python                   1 hr 28 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-C#                       54 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+C++                      5 hrs 55 mins       ████████████████░░░░░░░░░   62.21 % 
+Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+C#                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
+INI                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 51 mins       ████████████████████████░   95.15 % 
-Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+VS Code                  9 hrs 10 mins       ████████████████████████░   96.32 % 
+Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🐱‍💻 Projects: 
-LCD OLED TEST            3 hrs 54 mins       ██████████████░░░░░░░░░░░   54.24 % 
-MachineLearning          1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-2D-Platformer            1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-linux-discord-rich-presen38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Unknown Project          21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+LCD OLED TEST            3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
+Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+MachineLearning          1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+2D-Platformer            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+linux-discord-rich-presen38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
 
 💻 Operating System: 
-Linux                    7 hrs 12 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,7 +103,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 14:53:18 UTC
+ Last Updated on 19/10/2026 17:48:23 UTC
 <!--END_SECTION:waka-->
 
 ###
