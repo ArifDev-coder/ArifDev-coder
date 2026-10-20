@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -26,9 +26,9 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 231.2 kB Used in GitHub's Storage 
+> 📦 253.4 kB Used in GitHub's Storage 
  > 
-> 🏆 572 Contributions in the Year 2026
+> 🏆 576 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,74 +36,20 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 % 
-🌆 Daytime                252 commits         ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
-🌃 Evening                570 commits         ██████████████░░░░░░░░░░░   57.00 % 
-🌙 Night                  60 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-Tuesday                  129 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
-Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
-Sunday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-C++                      5 hrs 55 mins       ████████████████░░░░░░░░░   62.21 % 
-Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
-C#                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-INI                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 10 mins       ████████████████████████░   96.32 % 
-Neovim                   21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-🐱‍💻 Projects: 
-LCD OLED TEST            3 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.08 % 
-Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
-MachineLearning          1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-2D-Platformer            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-linux-discord-rich-presen38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-
-💻 Operating System: 
-Linux                    9 hrs 31 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-GDScript                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
-C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
+JavaScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+C#                       6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+GDScript                 3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+C                        2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 ```
 
 
 
 
- Last Updated on 19/10/2026 17:48:23 UTC
+ Last Updated on 20/10/2026 15:52:08 UTC
 <!--END_SECTION:waka-->
 
 ###
