@@ -36,6 +36,59 @@
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                118 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+🌆 Daytime                255 commits         ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+🌃 Evening                571 commits         ██████████████░░░░░░░░░░░   56.87 % 
+🌙 Night                  60 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   165 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Tuesday                  133 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Thursday                 121 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+Friday                   159 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+Saturday                 114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+Sunday                   198 commits         █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+C++                      6 hrs 17 mins       █████████████████░░░░░░░░   66.93 % 
+Python                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+C#                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+INI                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Godot Resource           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+
+🔥 Editors: 
+VS Code                  9 hrs 24 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+LCD OLED TEST            4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
+Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+01-Python-Crash-Course   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
+2D-Platformer            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+02-Python-for-Data-Analys35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+
+💻 Operating System: 
+Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in HTML** 
 
 ```text
@@ -49,7 +102,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/10/2026 15:52:08 UTC
+ Last Updated on 21/10/2026 16:09:07 UTC
 <!--END_SECTION:waka-->
 
 ###
