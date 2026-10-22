@@ -18,7 +18,7 @@
 
 ##### My Github Stats [SINCE NOV 8 2025]
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-387%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-388%20hrs%2050%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2037%20mins-blue?style=flat)
 
@@ -63,24 +63,22 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      6 hrs 17 mins       █████████████████░░░░░░░░   66.93 % 
-Python                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
-C#                       54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-INI                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-Godot Resource           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+C++                      6 hrs 17 mins       ████████████████░░░░░░░░░   62.81 % 
+Python                   3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
+INI                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LCD OLED TEST            4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   45.62 % 
-Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-01-Python-Crash-Course   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-2D-Platformer            1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-02-Python-for-Data-Analys35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+LCD OLED TEST            4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.82 % 
+Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+02-Python-for-Data-Analys2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
+01-Python-Crash-Course   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
 
 💻 Operating System: 
-Linux                    9 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,7 +100,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 16:09:07 UTC
+ Last Updated on 22/10/2026 16:05:25 UTC
 <!--END_SECTION:waka-->
 
 ###
