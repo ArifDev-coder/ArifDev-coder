@@ -63,22 +63,22 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C++                      6 hrs 17 mins       ████████████████░░░░░░░░░   62.81 % 
-Python                   3 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   32.96 % 
-INI                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Python                   3 hrs 18 mins       ██████████████░░░░░░░░░░░   54.05 % 
+C++                      2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
+INI                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-LCD OLED TEST            4 hrs 17 mins       ███████████░░░░░░░░░░░░░░   42.82 % 
-Keychain OLED            2 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-02-Python-for-Data-Analys2 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.43 % 
-01-Python-Crash-Course   1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Keychain OLED            2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
+02-Python-for-Data-Analys2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
+01-Python-Crash-Course   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+LCD OLED TEST            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 💻 Operating System: 
-Linux                    10 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    6 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 15:57:26 UTC
+ Last Updated on 24/10/2026 14:55:46 UTC
 <!--END_SECTION:waka-->
 
 ###
