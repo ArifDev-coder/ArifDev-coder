@@ -63,22 +63,21 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ██████████████░░░░░░░░░░░   54.05 % 
-C++                      2 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   40.44 % 
-INI                      13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-TOML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Python                   3 hrs 18 mins       ██████████████░░░░░░░░░░░   57.64 % 
+C++                      2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.61 % 
+INI                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Keychain OLED            2 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.77 % 
-02-Python-for-Data-Analys2 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   36.79 % 
-01-Python-Crash-Course   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
-LCD OLED TEST            22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Keychain OLED            2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
+02-Python-for-Data-Analys2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
+01-Python-Crash-Course   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
 
 💻 Operating System: 
-Linux                    6 hrs 6 mins        █████████████████████████   100.00 % 
+Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +99,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 14:55:46 UTC
+ Last Updated on 25/10/2026 15:04:53 UTC
 <!--END_SECTION:waka-->
 
 ###
