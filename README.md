@@ -63,21 +63,18 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ██████████████░░░░░░░░░░░   57.64 % 
-C++                      2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   36.61 % 
-INI                      12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Python                   3 hrs 18 mins       ████████████████████████░   96.52 % 
+TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Keychain OLED            2 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.28 % 
-02-Python-for-Data-Analys2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.23 % 
-01-Python-Crash-Course   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+02-Python-for-Data-Analys2 hrs 14 mins       ████████████████░░░░░░░░░   65.70 % 
+01-Python-Crash-Course   1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
 
 💻 Operating System: 
-Linux                    5 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -99,7 +96,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 15:04:53 UTC
+ Last Updated on 26/10/2026 17:40:53 UTC
 <!--END_SECTION:waka-->
 
 ###
