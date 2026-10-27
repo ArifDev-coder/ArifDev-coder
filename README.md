@@ -63,18 +63,16 @@ Sunday                   198 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   3 hrs 18 mins       ████████████████████████░   96.52 % 
-TOML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Python                   1 hr 39 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 39 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-02-Python-for-Data-Analys2 hrs 14 mins       ████████████████░░░░░░░░░   65.70 % 
-01-Python-Crash-Course   1 hr 10 mins        █████████░░░░░░░░░░░░░░░░   34.30 % 
+02-Python-for-Data-Analys1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 25 mins       █████████████████████████   100.00 % 
+Linux                    1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,7 +94,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 17:40:53 UTC
+ Last Updated on 27/10/2026 16:53:44 UTC
 <!--END_SECTION:waka-->
 
 ###
